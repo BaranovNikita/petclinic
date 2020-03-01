@@ -39,7 +39,7 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:git@github.com:BaranovNikita/petclinic.gitgit init</developerConnection>
+		<developerConnection>scm:git:git@github.com:BaranovNikita/petclinic.git</developerConnection>
 	</scm>
 
 </project>
